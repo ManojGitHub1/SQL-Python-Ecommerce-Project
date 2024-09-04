@@ -1,7 +1,7 @@
 # Fist, check if you have mysql-connector-python library using command
 pip list
 
-# If no then install mysql-connector-python
+# If not then install mysql-connector-python
 pip install mysql-connector-python
 
 import pandas as pd
